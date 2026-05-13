@@ -1,0 +1,8 @@
+Git es importante porque permite llevar un control de los cambios que se hacen en un proyecto de software. 
+Ayuda a los desarrolladores a trabajar en equipo sin perder información. 
+Permite volver a versiones anteriores si ocurre un error. 
+También mejora la organización del proyecto. 
+Facilita la colaboración entre varias personas. 
+Además, ayuda a identificar quién hizo cada cambio. 
+Esto hace que el desarrollo sea más seguro y eficiente. 
+Por eso, Git es una herramienta fundamental en el desarrollo de software.
